@@ -129,6 +129,7 @@ Realtime chat with private messaging, typing indicators, and message persistence
 
 <img src="https://raw.githubusercontent.com/mrrcodex/mrrcodex/output/github-snake-dark.svg" alt="snake" />
 
+
 </div>
 
 ---
