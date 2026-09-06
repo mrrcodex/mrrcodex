@@ -119,8 +119,6 @@ Realtime chat with private messaging, typing indicators, and message persistence
 
 </details>
 
-> ✏️ Ganti 3 link repo di atas dengan repo asli kamu — nama + deskripsi boleh saya sesuaikan kalau kamu kasih daftarnya.
-
 ---
 
 ## 🐍 Contribution Snake — animated
@@ -128,7 +126,6 @@ Realtime chat with private messaging, typing indicators, and message persistence
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/mrrcodex/mrrcodex/output/github-snake-dark.svg" alt="snake" />
-
 
 </div>
 
