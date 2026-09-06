@@ -1,273 +1,153 @@
-# Hello, I'm Muhammad Rizky
-**💻 Full-Stack Developer | Java Backend (SpringBoot) + React Frontend**  
-**🎯 Open to Opportunities | Building scalable systems & modern UIs**
+<div align="center">
 
-<style>
-  :root {
-    --primary: #6c5ce7;
-    --secondary: #00cec9;
-    --accent: #f72585;
-    --dark: #2d3436;
-    --light: #636e72;
-  }
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=mrrcodex&fontSize=54&fontColor=fff&animation=twinkling&fontAlignY=32" alt="header" />
 
-  .hero-text {
-    font-size: 2.2rem;
-    font-weight: 700;
-    background: linear-gradient(135deg, var(--primary), var(--secondary));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    margin-bottom: 0.5rem;
-  }
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+scalable+APIs+%26+modern+UIs;Open+to+Opportunities+%F0%9F%9A%80" alt="typing" />
 
-  .tagline {
-    font-size: 1.1rem;
-    color: var(--light);
-    margin-bottom: 2rem;
-  }
+<br />
 
-  .badge {
-    display: inline-flex;
-    align-items: center;
-    padding: 4px 10px;
-    background: rgba(255,255,255,0.1);
-    border-radius: 20px;
-    margin: 2px;
-    font-size: 0.75rem;
-    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  }
+<img src="https://komarev.com/ghpvc/?username=mrrcodex&color=6c5ce7&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+<img src="https://img.shields.io/github/followers/mrrcodex?label=Followers&style=social" alt="followers" />
+<img src="https://img.shields.io/github/stars/mrrcodex?label=Stars&style=social" alt="stars" />
 
-  .badge:hover {
-    transform: translateY(-3px) scale(1.15);
-    background: rgba(255,255,255,0.25);
-    box-shadow: 0 8px 25px rgba(0,0,0,0.3);
-    border-color: var(--primary);
-  }
+<br /><br />
 
-  .badge:focus-visible {
-    outline: 2px solid var(--primary);
-    outline-offset: 2px;
-  }
+<a href="https://github.com/mrrcodex"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="https://linkedin.com/in/mrrcodex"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://twitter.com/mrrcodex"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x" /></a>
+<a href="mailto:muhammadrizky@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 
-  .category {
-    color: var(--secondary);
-    font-weight: 600;
-    margin-bottom: 1rem;
-    display: block;
-  }
-
-  .section-divider {
-    height: 1px;
-    background: linear-gradient(90deg, transparent, var(--primary), transparent);
-    margin: 2rem 0;
-  }
-
-  .project-card {
-    background: rgba(45, 52, 54, 0.3);
-    border-radius: 12px;
-    padding: 1rem 1.2rem;
-    margin: 0.5rem 0;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border: 1px solid rgba(255,255,255,0.1);
-  }
-
-  .project-card:hover {
-    transform: translateX(8px);
-    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
-  }
-
-  .stat-number {
-    font-size: 2.5rem;
-    font-weight: 700;
-    background: linear-gradient(135deg, var(--primary), var(--accent));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
-  .reveal {
-    opacity: 0;
-    transform: translateY(30px);
-    transition: opacity 0.6s cubic-bezier(0.4, 0, 0.2, 1), transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
-  }
-
-  .reveal.visible {
-    opacity: 1;
-    transform: translateY(0);
-  }
-</style>
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const reveals = document.querySelectorAll('.reveal');
-    
-    const observer = new IntersectionObserver(function(entries) {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('visible');
-        }
-      });
-    }, { threshold: 0.1 });
-
-    reveals.forEach(element => {
-      observer.observe(element);
-    });
-  });
-</script>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-Backend developer passionate about building scalable Java applications with Spring Boot, 
-combined with modern React frontends. I love cleaning code, designing databases, 
-and creating seamless user experiences.
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" />
 
-**What I do:**
-- Design & develop RESTful APIs with Spring Boot
-- Build responsive UIs with React & TypeScript
-- Optimize database queries & system architecture
-- Deploy to Cloud (AWS, Docker, Kubernetes)
+Backend developer focused on **scalable Java systems** with **Spring Boot**, paired with **modern React** frontends.
 
-**Fun fact:** I automate everything I can find 🤖
+- 🔭 Building RESTful APIs — JWT auth, clean architecture, PostgreSQL
+- 🌱 Deepening: system design, Docker / Kubernetes, AWS
+- 💬 Ask me about: `Java`, `Spring Boot`, `React`, deployment
+- 📫 Reach me: LinkedIn or Email above
+- ⚡ Fun fact: I automate everything I can find 🤖
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const about = document.querySelector('h2 + p');
-    if (about) {
-      about.classList.add('reveal');
-    }
-  });
-</script>
+<br clear="both" />
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)  
-[![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)  
-[![Maven](https://img.shields.io/badge/Maven-C71A42?style=for-the-badge&logo=apache-maven&logoColor=white)](https://maven.apache.org)  
-[![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)](https://gradle.org)
+<div align="center">
 
-### Frontend
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)  
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org)  
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://css-tricks.com)
+<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,postgres,redis,docker&theme=dark" alt="backend" />
+<br />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&theme=dark" alt="frontend" />
+<br />
+<img src="https://skillicons.dev/icons?i=git,idea,vscode,postman,linux&theme=dark" alt="tools" />
 
-### Tools
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)  
-[![Git](https://img.shields.io/badge/F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)  
-[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://jetbrains.com/idea)  
-[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+<br /><br />
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const badges = document.querySelectorAll('.markdown .badge');
-    badges.forEach(badge => {
-      badge.style.transition = 'all 0.3s cubic-bezier(0.4, 0, 0.2, 1)';
-    });
-  });
-</script>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="spring" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats — live & auto-updating
 
-<div class="reveal">
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrrcodex&show_icons=true&theme=dark&count_private=true&include_all_commits=true&layout=compact)](https://github.com/mrrcodex)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrrcodex&layout=compact&theme=dark&border_color=8051C2&text_color=D1D1D1&bg_color=1e1e1e)](https://github.com/mrrcodex)
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mrrcodex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+<img height="160" src="https://streak-stats.demolab.com?user=mrrcodex&theme=tokyonight&hide_border=true" alt="streak" />
+
+<br />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrcodex&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+<img height="160" src="https://github-profile-trophy.vercel.app/?username=mrrcodex&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=4" alt="trophies" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrrcodex&theme=tokyo-night&hide_border=true" alt="activity graph" />
+
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mrrcodex&theme=dark)](https://gitstreak.com/mrrcodex)  
-[![Contributions](https://github-contributions.vercel.app/api?username=mrrcodex&limit=5&theme=dark)](https://github.com/mrrcodex)
-
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const stats = document.querySelector('.reveal');
-    if (stats) stats.classList.add('visible');
-  });
-</script>
 
 ---
 
-## 📱 Social Media
+## 🚀 Featured Projects — click to expand 👇
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  [![Twitter](https://img.shields.io/badge/@-1DA1F2?style=for-the-badge&logo=xwitter&logoColor=white)](https://twitter.com/mrrcodex)  
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrrcodex)  
-  [![GitHub](https://img.shields.io/badge/github-%23100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrrcodex)
+<details>
+<summary><b>🔌 Spring Boot REST API — JWT + PostgreSQL + clean architecture</b></summary>
+<br />
 
-  [![Email](https://img.shields.io/badge/Email-D1495B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadrizky@example.com)
-</div>
+Robust RESTful API with JWT authentication, global exception handling, validation, and PostgreSQL.
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const socials = document.querySelectorAll('div[style*="display: flex"] .badge');
-    socials.forEach(social => {
-      social.style.transition = 'all 0.3s ease';
-    });
-  });
-</script>
+- Stack: `Java` `Spring Boot` `JPA` `PostgreSQL` `Maven`
+- Highlights: layered architecture, DTO mapping, paginated endpoints
 
----
+<a href="https://github.com/mrrcodex/spring-boot-api"><img src="https://img.shields.io/badge/View_Repo-6C5CE7?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
 
-## 🚀 Featured Projects
+</details>
 
-<div class="section-divider"></div>
+<details>
+<summary><b>🛒 React E-commerce UI — responsive + state management</b></summary>
+<br />
 
-### **Spring Boot REST API**
-<div class="project-card">
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/mrrcodex/spring-boot-api)  
-Robust RESTful API built with Spring Boot featuring JWT authentication, 
-exception handling, and PostgreSQL integration. Clean architecture with layered design.
-</div>
+Modern storefront UI with cart flow, product filtering, and API integration.
 
-### **React E-commerce UI**
-<div class="project-card">
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://github.com/mrrcodex/react-ecommerce)  
-Modern e-commerce frontend with React, Red Toolkit UI, and API integration. 
-Responsive design with smooth animations and state management.
-</div>
+- Stack: `React` `TypeScript` `Tailwind` `REST`
+- Highlights: responsive layout, reusable components, smooth loading states
 
-### **Full-Stack Chat Application**
-<div class="project-card">
-[![Full-Stack](https://img.shields.io/badge/Full--Stack-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://github.com/mrrcodex/chat-app)  
-Real-time chat application connecting React frontend with Spring Boot WebSocket backend. 
-Features private messaging, typing indicators, and message persistence.
-</div>
+<a href="https://github.com/mrrcodex/react-ecommerce"><img src="https://img.shields.io/badge/View_Repo-00CEC9?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const cards = document.querySelectorAll('.project-card');
-    cards.forEach(card => {
-      card.classList.add('reveal');
-    });
-  });
-</script>
+</details>
+
+<details>
+<summary><b>💬 Full-Stack Chat App — React + Spring WebSocket realtime</b></summary>
+<br />
+
+Realtime chat with private messaging, typing indicators, and message persistence.
+
+- Stack: `React` `Spring Boot WebSocket` `PostgreSQL`
+- Highlights: STOMP messaging, reconnect handling, chat history
+
+<a href="https://github.com/mrrcodex/chat-app"><img src="https://img.shields.io/badge/View_Repo-F72585?style=for-the-badge&logo=github&logoColor=white" alt="repo" /></a>
+
+</details>
+
+> ✏️ Ganti 3 link repo di atas dengan repo asli kamu — nama + deskripsi boleh saya sesuaikan kalau kamu kasih daftarnya.
 
 ---
 
-## 📈 Recent Activity
+## 🐍 Contribution Snake — animated
 
-<div class="section-divider"></div>
+<div align="center">
 
-[![GitHub Activity](https://ghapi.huchen.dev/users/mrrcodex)](https://github.com/mrrcodex)  
-[![Lines of Code](https://img.shields.io/badge/LOC-15,234-brightgreen)](https://github.com/mrrcodex)
+<img src="https://raw.githubusercontent.com/mrrcodex/mrrcodex/output/github-snake-dark.svg" alt="snake" />
 
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const activity = document.querySelector('.section-divider + *');
-    if (activity) activity.classList.add('reveal');
-  });
-</script>
+> Snake ini di-generate otomatis tiap hari via GitHub Actions (file workflow sudah saya sertakan di `.github/workflows/snake.yml`). Setelah push, tunggu 1x run lalu gambar muncul.
+
+</div>
 
 ---
 
-<!---
-💬 **Ask me about:** Java Spring Boot, React, system design, cloud deployment
-📫 **How to reach me:** LinkedIn or Email
-⚡ **Fun fact:** I document everything I learn
--->
+## 🎯 Now
+
+- 🔭 Currently working on: full-stack apps (Spring Boot × React)
+- 🌱 Currently learning: system design & cloud deploy
+- 👯 Looking to collaborate on: open-source Java / React projects
+- 💬 Ask me about: APIs, auth, DB tuning
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" alt="footer" />
+
+⭐️ From <a href="https://github.com/mrrcodex">mrrcodex</a> — thanks for visiting!
+
+</div>
