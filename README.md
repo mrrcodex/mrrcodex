@@ -62,17 +62,17 @@ Backend developer focused on **scalable Java systems** with **Spring Boot**, pai
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mrrcodex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=mrrcodex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats" />
 <img height="160" src="https://streak-stats.demolab.com?user=mrrcodex&theme=tokyonight&hide_border=true" alt="streak" />
 
 <br />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrrcodex&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
-<img height="160" src="https://github-profile-trophy.vercel.app/?username=mrrcodex&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=4" alt="trophies" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs?username=mrrcodex&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+<img height="160" src="https://github-trophies.vercel.app/?username=mrrcodex&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=4" alt="trophies" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrrcodex&theme=tokyo-night&hide_border=true" alt="activity graph" />
+<img src="https://github-activity-graph.vercel.app/graph?username=mrrcodex&theme=tokyo-night&hide_border=true" alt="activity graph" />
 
 </div>
 
