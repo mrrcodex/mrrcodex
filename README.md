@@ -129,8 +129,6 @@ Realtime chat with private messaging, typing indicators, and message persistence
 
 <img src="https://raw.githubusercontent.com/mrrcodex/mrrcodex/output/github-snake-dark.svg" alt="snake" />
 
-> Snake ini di-generate otomatis tiap hari via GitHub Actions (file workflow sudah saya sertakan di `.github/workflows/snake.yml`). Setelah push, tunggu 1x run lalu gambar muncul.
-
 </div>
 
 ---
